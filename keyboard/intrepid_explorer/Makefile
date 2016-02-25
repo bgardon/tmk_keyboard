@@ -39,7 +39,7 @@
 #----------------------------------------------------------------------------
 
 # Target file name (without extension).
-TARGET = alps64
+TARGET = intrepid_explorer
 
 # Directory common source filess exist
 TMK_DIR = ../../tmk_core
